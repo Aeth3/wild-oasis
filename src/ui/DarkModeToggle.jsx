@@ -11,4 +11,4 @@ function DarkModeToggle() {
   );
 }
 
-export default DarkModeToggle;
+export { DarkModeToggle };
